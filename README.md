@@ -1,2 +1,2 @@
 # todolist
-Making a Todo list.
+Making a Todo list app.
